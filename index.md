@@ -24,9 +24,6 @@ Lab 6 – Physical Viewpoint of Semester Project**
 	
 	https://docs.google.com/spreadsheets/d/1jAgzpAD6TLTCQ8auD84wL_maehXKWP_c/edit#gid=1572302299
 
-**Documentation Page:**
-	We will be using GitHub to start compiling all of our information in one area. 
-
 **Areas where further knowledge is needed:**
 	One of the areas that we are still lacking in knowledge of is the wiring of the system. We do not have previous knowledge or experience of wiring systems like this. We will need further information to move forward with this portion of the project.
 
