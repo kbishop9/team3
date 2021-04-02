@@ -1,4 +1,5 @@
 
+
 **California State University, Chico
 SMFG 386 – Manufacturing Automation Systems
 Lab 6 – Physical Viewpoint of Semester Project**
@@ -21,8 +22,8 @@ Lab 6 – Physical Viewpoint of Semester Project**
 
 **Bill of Materials:**
 	In lab 6 our group compiled a bill of materials for our semester project. The list consisted of all parts for the system with quantity, retailer, and web link to purchase. The produce our group has chosen to grow in the system is butter lettuce because of its relative ease to grow compared to other crops, and because of its small footprint requiring no support structure. 
+[BOM.xlsx](https://github.com/kbishop9/team_3_semester_project/files/6247785/BOM.xlsx)	
 	
-	https://docs.google.com/spreadsheets/d/1jAgzpAD6TLTCQ8auD84wL_maehXKWP_c/edit#gid=1572302299
 
 **Areas where further knowledge is needed:**
 	One of the areas that we are still lacking in knowledge of is the wiring of the system. We do not have previous knowledge or experience of wiring systems like this. We will need further information to move forward with this portion of the project.
