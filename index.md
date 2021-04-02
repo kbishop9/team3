@@ -9,6 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+[BOM.xlsx - Sheet1.pdf](https://github.com/kbishop9/team_3_semester_project/files/6247581/BOM.xlsx.-.Sheet1.pdf)
+
 Syntax highlighted code block
 
 # Header 1
