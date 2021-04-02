@@ -21,6 +21,8 @@ Lab 6 – Physical Viewpoint of Semester Project**
 
 **Bill of Materials:**
 	In lab 6 our group compiled a bill of materials for our semester project. The list consisted of all parts for the system with quantity, retailer, and web link to purchase. The produce our group has chosen to grow in the system is butter lettuce because of its relative ease to grow compared to other crops, and because of its small footprint requiring no support structure. 
+	
+	https://docs.google.com/spreadsheets/d/1jAgzpAD6TLTCQ8auD84wL_maehXKWP_c/edit#gid=1572302299
 
 **Documentation Page:**
 	We will be using GitHub to start compiling all of our information in one area. 
