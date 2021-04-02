@@ -26,5 +26,5 @@ Lab 6 – Physical Viewpoint of Semester Project**
 	
 
 **Areas where further knowledge is needed:**
-	One of the areas that we are still lacking in knowledge of is the wiring of the system. We do not have previous knowledge or experience of wiring systems like this. We will need further information to move forward with this portion of the project.
+	One of the areas that we are still lacking in knowledge of is the wiring of the system. We do not have previous knowledge or experience of wiring systems like this. We will need further information to move forward with this portion of the project. We beleive that the compnents chosen in our Bill Of Materials are viable for use in a hydroponic system like we are designing.
 
