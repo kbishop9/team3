@@ -16,7 +16,7 @@ Semester Project**
 7. Areas of Improvment 
 
 **1. Objective:**
-	The purpose of this project is to work with our group and provide in depth specifications of our automated hydroponic system.  
+	The purpose of this project is to work with our group and provide in depth specifications of our automated hydroponic system. To get this project to its final stage, research and design occured over multiple labs and group meetings. During these meetings, we were able to idenify and correct potential design/system flaws that would have otherwise hindered the functionality of the hydroponic system.  
 
 
 
