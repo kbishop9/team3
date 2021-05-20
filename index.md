@@ -22,6 +22,7 @@ Semester Project**
 
 
 **2. Physical Viewpoint**
+The physical viewpoint shows how the system should be set up, connected, and ultimately flow. This includes important items like the Raspberry Pi, module and sensory equipment. The physical viewpoint allows the user to be able to view proper setup of the system. 
 ![image](https://user-images.githubusercontent.com/80664067/113379173-9eaecf80-932d-11eb-8b86-3c8fe463954d.png)
 
 
