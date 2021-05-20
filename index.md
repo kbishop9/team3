@@ -4,6 +4,8 @@
 SMFG 386 – Manufacturing Automation Systems
 Semester Project**
 
+**Team Members: Nick Decool, Tyler Huang, Victor Anguiano and Katie Bishop**
+
 
 **Objective:**
 	The purpose of this project is to work with our group and provide in depth specifications of our automated hydroponic system.  
