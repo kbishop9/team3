@@ -30,6 +30,7 @@ The physical viewpoint shows how the system should be set up, connected, and ult
 ![image](https://user-images.githubusercontent.com/80721125/113385653-68794c00-933d-11eb-8d5c-486f0f4b8244.png)
 
 **4. Ladder Diagram**
+The ladder diagram is showing how the PLC programming will work for our hydroponic system. The "On-switch" is used to turn on the relay to the pumps and the nutrients. If nutrients are low, the solution pump will turn on. If the PPM is high in the water solution, the pump will also turn on. Below is the visual representation and code.
 ![image](https://user-images.githubusercontent.com/80664067/119056025-daa20080-b97e-11eb-9797-6d738c0d0ec6.png)
 ![image](https://user-images.githubusercontent.com/80664067/119056074-ef7e9400-b97e-11eb-8ad6-996a659a29e3.png)
 
