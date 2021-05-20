@@ -36,6 +36,7 @@ The ladder diagram is showing how the PLC programming will work for our hydropon
 
 
 **5. CAD Render**
+Below is a CAD rendering of a hydroponic system. It is a visual represnetation of all the important components that are needed for the system. On top of the housing you see the water and nutrient resevoirs. Inside the housing you can see the location where the plants would be planted. Most importantly, you can see how it is a closed looped system by observing where the piping of the system is located. 
 ![image](https://user-images.githubusercontent.com/80664067/119056289-4be1b380-b97f-11eb-92db-4704c50ec4bc.png)
 Credit: GrabCad user: abrahamokoko
 
