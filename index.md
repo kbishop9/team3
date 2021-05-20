@@ -22,7 +22,8 @@ Semester Project**
 
 
 **CAD Render**
-![image](https://user-images.githubusercontent.com/80664067/119050855-42ece400-b977-11eb-9a4a-e0c8df0e4d0c.png)
+![image](https://user-images.githubusercontent.com/80664067/119056289-4be1b380-b97f-11eb-92db-4704c50ec4bc.png)
+Credit: GrabCad user: abrahamokoko
 
 
 **Bill of Materials:**
