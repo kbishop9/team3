@@ -2,11 +2,11 @@
 
 **California State University, Chico
 SMFG 386 – Manufacturing Automation Systems
-Lab 6 – Physical Viewpoint of Semester Project**
+Semester Project**
 
 
 **Objective:**
-	The purpose of this lab is to work with our group and further the specifications of our semester project. During this lab, we will be creating a physical viewpoint diagram, program logic, and a bill of materials. We will also be selecting our platform for documentation of this project. 
+	The purpose of this project is to work with our group and provide in depth specifications of our automated hydroponic system.  
 
 
 
@@ -18,6 +18,8 @@ Lab 6 – Physical Viewpoint of Semester Project**
 **Program Logic**
 ![image](https://user-images.githubusercontent.com/80721125/113385653-68794c00-933d-11eb-8d5c-486f0f4b8244.png)
 
+**CAD Render**
+![image](https://user-images.githubusercontent.com/80664067/119050855-42ece400-b977-11eb-9a4a-e0c8df0e4d0c.png)
 
 
 **Bill of Materials:**
